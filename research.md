@@ -5,9 +5,15 @@ title: research
 
 ### publications
 
+#### journal articles
+**Kajić I.**, Gosmann J, Stewart TC, Wennekers T and Eliasmith C (2017). [A Spiking Neuron Model of Word Associations for the Remote Associates Test](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00099). Front. Psychol. 8:99. doi: 10.3389/fpsyg.2017.00099 <a
+href="http://compneuro.uwaterloo.ca/publications/kajic2017.html#kajic2017cite"
+target="_blank">[bibtex]</a>
+
+
 #### conference papers
 
-**Kajić I**., Gosmann, J., Stewart, T. C., Wennekers, T., and Eliasmith, C.
+**Kajić I.**, Gosmann, J., Stewart, T. C., Wennekers, T., and Eliasmith, C.
 (2016). [Towards a cognitively realistic representation of word
 associations](http://mindmodeling.org/cogsci2016/papers/0379/paper0379.pdf). In
 38th Annual Conference of the Cognitive Science Society (Austin, TX: Cognitive
