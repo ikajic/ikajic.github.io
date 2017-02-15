@@ -33,8 +33,7 @@ Putze F., Heger D., Müller M., Chassein Y., **Kajić I.**, Schultz T. (2013), [
 #### workshop papers
 
 **Kajić I.** and Wennekers, T. (2015). [Neural network model of semantic processing in the Remote
-Associates Test](http://daselab.cs.wright.edu/nesy/CoCo2015/coco_nips_2015_pre-proceedings.pdf#73). In Proceedings of the NIPS Workshop on Cognitive Computation: Integrating Neu-
-ral and Symbolic Approaches co-located with the 29th Annual Conference on Neural Information
+Associates Test](http://daselab.cs.wright.edu/nesy/CoCo2015/coco_nips_2015_pre-proceedings.pdf#73). In Proceedings of the NIPS Workshop on Cognitive Computation: Integrating Neural and Symbolic Approaches co-located with the 29th Annual Conference on Neural Information
 Processing Systems (NIPS 2015), Montreal, Canada, December 11-12, 2015. 73–81
 <a href="https://raw.githubusercontent.com/ikajic/ikajic.github.io/master/publications/kajic2015.bib" target="_blank">[bibtex]</a>
 
