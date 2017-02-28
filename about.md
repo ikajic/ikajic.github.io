@@ -12,15 +12,30 @@ the [Computational Neuroscience Research group
 (CNRG)](http://compneuro.uwaterloo.ca/) headed by Chris Eliasmith. My interests
 are in biologically constrained representations of language. In particular,
 I investigate distributed representations of the linguistic content such as
-words and sentences that can be implemented efficiently in a network of spiking neurons. 
+words and sentences that can be efficiently implemented in a large-scale network of spiking neurons.
+To do so, I use a compressed, vector-based representations of words and
+sentences called [semantic pointers](http://compneuro.uwaterloo.ca/research/spa.html) that can be manipulated to mimic aspects of
+syntactic and semantic processing.
 
 I received a Master's degree in Computational Neuroscience at the [Bernstein
 Centre for Computational Neuroscience](https://www.bccn-berlin.de/Home/) in
 Berlin and my Bachelor in Computing from [FER](http://www.fer.unizg.hr/) at
-the University of Zagreb. I also worked as a Research Fellow in a [Cognovo
-group](http://cognovo.eu/) at Plymouth University in England investigating
-creative verbal thinking. My CV is available
+the University of Zagreb. I also worked as a Research Fellow in the [Cognovo
+group](http://cognovo.eu/) at the Plymouth University in England, where
+I built neural networks of a verbal association task. My (occasionally updated) CV is available
 [here](https://github.com/ikajic/ikajic.github.io/raw/master/files/cv.pdf).
+
+
+#### my name
+I come from Croatia, which is a small beautiful country in the Mediterranean
+whose contours on a map, some people say, look a bit like those of a bird in
+flight (imagining Istria as the bird's head). To pronounce my name as a Croatian
+would, try saying E-va [sounds like "va" in lava]-na ["na" like in retina] Ka-[sounds like "ca" in
+cartoon]-yeech. Croatians speak Croatian, which is a Slavic language and
+contains lovely vowelless words such as trg (town square), vrh (peak) and
+Krk (name of an island). Instead of getting lost while trying to find a trg on
+a vrh at Krk, one can also visit [Plitvička Jezera](http://np-plitvicka-jezera.hr/en/), [Dubrovnik](https://en.wikipedia.org/wiki/Dubrovnik) or [Paklenica](http://www.np-paklenica.hr/en/).
+
 
 ### about this website
 

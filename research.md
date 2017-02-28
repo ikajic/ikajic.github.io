@@ -3,15 +3,13 @@ layout: default
 title: research
 ---
 
-### publications
-
-#### journal articles
+### journal articles
 **Kajić I.**, Gosmann J, Stewart TC, Wennekers T and Eliasmith C (2017). [A Spiking Neuron Model of Word Associations for the Remote Associates Test](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00099). Front. Psychol. 8:99. doi: 10.3389/fpsyg.2017.00099 <a
 href="http://compneuro.uwaterloo.ca/publications/kajic2017.html#kajic2017cite"
 target="_blank">[bibtex]</a>
 
 
-#### conference papers
+### conference papers
 
 **Kajić I.**, Gosmann, J., Stewart, T. C., Wennekers, T., and Eliasmith, C.
 (2016). [Towards a cognitively realistic representation of word
@@ -30,7 +28,7 @@ a Humanoid Robot using SOMs.](http://adapt.informatik.hu-berlin.de/pub/papers/HR
 Putze F., Heger D., Müller M., Chassein Y., **Kajić I.**, Schultz T. (2013), [Profiling Arousal in Response to Complex Stimuli using Biosignals](https://www.researchgate.net/profile/Ivana_Kajic/publication/260986674_Profiling_Arousal_in_Response_to_Complex_Stimuli_using_Biosignals/links/02e7e5333e36b33b16000000.pdf), BIOSIGNALS 2013: 347-350, Barcelona, Spain
 <a href="https://raw.githubusercontent.com/ikajic/ikajic.github.io/master/publications/putze2013.bib" target="_blank">[bibtex]</a>
 
-#### workshop papers
+### workshop papers
 
 **Kajić I.** and Wennekers, T. (2015). [Neural network model of semantic processing in the Remote
 Associates Test](http://daselab.cs.wright.edu/nesy/CoCo2015/coco_nips_2015_pre-proceedings.pdf#73). In Proceedings of the NIPS Workshop on Cognitive Computation: Integrating Neural and Symbolic Approaches co-located with the 29th Annual Conference on Neural Information
@@ -45,7 +43,7 @@ Robot.](http://www.macs.hw.ac.uk/~kl360/HRI2014W/submission/S11.pdf) Workshop: A
 
 ### other
 
-Kajić I., [Čitanje misli iz moždane aktivnosti](http://gyrus.hiim.hr/images/gyrus3/Gyrus3_Part9.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak (![](http://cdn.worldweatheronline.net/images/flags/hr.gif))
+Kajić I., [Čitanje misli iz moždane aktivnosti](http://gyrus.hiim.hr/images/gyrus3/Gyrus3_Part9.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak 
 
 Kajić I., [Umjetni neuroni, simulirani mozgovi i računala - zašto nam to
-treba](http://gyrus.hiim.hr/images/gyrus1/Gyrus1_Part4.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak (![](http://cdn.worldweatheronline.net/images/flags/hr.gif))
+treba](http://gyrus.hiim.hr/images/gyrus1/Gyrus1_Part4.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak
