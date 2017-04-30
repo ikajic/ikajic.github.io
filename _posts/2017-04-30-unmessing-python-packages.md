@@ -53,8 +53,9 @@ sometimes I have other VEs for individual research projects.
 In the next few paragraphs I will explain how to get VEs up and running. I will
 assume a \*nix system and some basic familiarity with shell commands (e.g., navigation,
 creating and removing directories). A tool used to create Python VEs is called
-*virtualenv*, and another tool called *virtenvwrapper* is a set of extensions
+<a href="https://pypi.python.org/pypi/virtualenv" target="_blank">virtualenv</a>, and another tool called <a href="https://virtualenvwrapper.readthedocs.io/en/latest/index.html" target="_blank">virtenvwrapper</a> is a set of extensions
 to virtualenv that provide shortcuts that allow setting up a VE more quickly.
+Together, they make the management of Python packages more convenient.
 
 Both of these packages can be installed with `pip`:
 ```
