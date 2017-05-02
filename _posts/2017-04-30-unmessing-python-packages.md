@@ -28,6 +28,7 @@ Here are a few examples of situations which you might encounter:
 - Two different versions of the same package are needed (e.g., version 1.1 and version 1.2) for two different projects
 - Two versions of the same package are needed, but one for Python 2.X and one
   for Python 3.X
+- You do not have `sudo` privileges on the machine you are using
 - You spent a whole night (or two) trying to understand why some import does not
   work while there is a package installed and it really should be working. You
   are reconsidering your choice to go to a grad school and wonder what is the meaning of life.
@@ -42,8 +43,11 @@ This step happens in a terminal, so there are no changes to the Python code.
 The nice thing about this system is that there can be many VEs, and one VE can be activated in one shell prompt while another one can be activated in a different shell prompt.
 Also, it keeps custom installed Python packages separate from the system-wide,
 global Python packages needed to run the operating system.
-And messing with global Python packages is exactly what it sounds like --
-not a great idea. 
+And messing with global Python packages that are used to run the OS is exactly what it sounds like --
+not a great idea.
+This can happen when `sudo pip install` is used to install Python packages
+(which, unfortunately, often shows up as a "solution" when googling for problems
+related to installing Python packages). 
 On my computer, I have one general VE with Python 2.X installation that
 I use frequently, then I keep a separate one for Python 3.X installation, and
 sometimes I have other VEs for individual research projects.
