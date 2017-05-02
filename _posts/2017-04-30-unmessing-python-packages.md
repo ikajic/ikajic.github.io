@@ -5,14 +5,15 @@ date: 2017-04-30
 ---
 
 When I teach programming to beginners, I often recommend Anaconda or Canopy as
-the default environment for coding in Python.
-Such programs offer a convenient solution for someone who is just
-starting to learn how to code, circumventing the need to individually install
-Python packages and the associated cognitive overload of trying to understand what's happening "under the hood".
-While such understanding is likely to be important at some later point in the learning process,
-it is usually not crucial to someone who just learned what a variable or a for
-loop is.
-However, once a user starts to manage their own packages, things can get little tricky.
+the default environment for coding in Python. Such programs offer a convenient
+solution for someone who is just starting to learn how to code, simplifying the
+process of installing and managing Python packages. Also, such
+programs alleviate cognitive overload of trying to understand what's happening
+"under the hood", which might be desirable for someone who just learned what
+a variable or a for loop is.
+However, once a user starts to manage their own packages and once the understanding of
+things "under the hood" becomes relevant, things can easily get tricky.
+This post explains a simple and consistent way to manage Python packages.
 
 
 ### 50 shades of headaches
@@ -36,21 +37,22 @@ Here are a few examples of situations which you might encounter:
 One way to deal with these kinds of issues is by using Python virtual
 environments. A virtual environment (VE) is a program that isolates a group of Python packages and
 keeps them separate from all other Python packages.
-Then, when a specific group of packages are needed it can be imported in a usual way by
-<i>activating</i> that particular virtual environment first and using `import
-package` as usual.
-This step happens in a terminal, so there are no changes to the Python code.
+Then, when a group of packages is needed, the virtual environment containing that packages can
+be <i>activated</i> and packages can be imported as usual with `import
+package`.
+The activation of a VE happens in a terminal, so there are no changes to the Python code.
 The nice thing about this system is that there can be many VEs, and one VE can be activated in one shell prompt while another one can be activated in a different shell prompt.
-Also, it keeps custom installed Python packages separate from the system-wide,
-global Python packages needed to run the operating system.
-And messing with global Python packages that are used to run the OS is exactly what it sounds like --
-not a great idea.
-This can happen when `sudo pip install` is used to install Python packages
-(which, unfortunately, often shows up as a "solution" when googling for problems
-related to installing Python packages). 
 On my computer, I have one general VE with Python 2.X installation that
 I use frequently, then I keep a separate one for Python 3.X installation, and
 sometimes I have other VEs for individual research projects.
+Also, packages installed within a VE are kept separate from system-wide,
+global Python packages that needed to run the operating system.
+And messing with global Python packages that are used to run the OS is exactly what it sounds like --
+not a great idea.
+This kind of mess with global packages can happen when `sudo pip install` is used to install Python packages
+(which, unfortunately, often shows up as a "solution" when googling for problems
+related to installing Python packages). 
+
 
 ### Setting up Python Virtual Environments
 
@@ -59,7 +61,8 @@ assume a \*nix system and some basic familiarity with shell commands (e.g., navi
 creating and removing directories). A tool used to create Python VEs is called
 <a href="https://pypi.python.org/pypi/virtualenv" target="_blank">virtualenv</a>, and another tool called <a href="https://virtualenvwrapper.readthedocs.io/en/latest/index.html" target="_blank">virtenvwrapper</a> is a set of extensions
 to virtualenv that provide shortcuts that allow setting up a VE more quickly.
-Together, they make the management of Python packages more convenient.
+Together, they make the management of Python packages convenient and fairly
+simple.
 
 Both of these packages can be installed with `pip`:
 ```
