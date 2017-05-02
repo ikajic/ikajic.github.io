@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unmessing Python packages with virtual environments"
-date: 2017-04-29
+date: 2017-04-30
 ---
 
 When I teach programming to beginners, I often recommend Anaconda or Canopy as
@@ -119,10 +119,11 @@ When I first tried creating an environment, I had an issue with paths:
 ivana@cassiopeia:~$ mkvirtualenv first_env
 ERROR: virtualenvwrapper could not find virtualenv in your path
 ```
-and I needed to create a symbolic link in `/usr/local/bin/virtualenv`:
+the sudo-less way to resolve this is to add `/home/ivana/.local/bin` to the
+PATH in `.bashrc`:
 
 ```
-sudo ln -s /home/ivana/.local/bin/virtualenv /usr/local/bin/virtualenv
+export PATH=$PATH:/home/ivana/.local/bin
 ```
 
 ### Using Virtual Environments
