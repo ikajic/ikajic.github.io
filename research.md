@@ -11,6 +11,10 @@ target="_blank">[bibtex]</a>
 
 ### conference papers
 
+**Kajić I.**, Gosmann, J., Komer, B., Orr, R. W., Stewart, T. C., and
+Eliasmith, C. (2017). A Biologically Constrained Model of Semantic Memory
+Search. Proceedings of the 39th Annual Meeting of the Cognitive Science Society.
+
 **Kajić I.**, Gosmann, J., Stewart, T. C., Wennekers, T., and Eliasmith, C.
 (2016). [Towards a cognitively realistic representation of word
 associations](http://mindmodeling.org/cogsci2016/papers/0379/paper0379.pdf). In
