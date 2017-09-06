@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summertime linguistics"s
+title: "Summertime linguistics"
 date: 2017-09-06
 ---
 &nbsp;
