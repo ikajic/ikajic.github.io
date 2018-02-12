@@ -10,15 +10,22 @@ target="_blank">[bibtex]</a>
 
 
 ### conference papers
+**Kajić I.**, and Eliasmith, C. (2018). Evaluating the psychological plausibility
+of word2vec and GloVe distributional semantic models. (*submitted*)
 
 **Kajić I.**, Gosmann, J., Komer, B., Orr, R. W., Stewart, T. C., and
-Eliasmith, C. (2017). A Biologically Constrained Model of Semantic Memory
-Search. Proceedings of the 39th Annual Meeting of the Cognitive Science Society.
+Eliasmith, C. (2017). [A Biologically Constrained Model of Semantic Memory
+Search](https://mindmodeling.org/cogsci2017/papers/0127/paper0127.pdf). In
+Proceedings of the 39th Annual Meeting of the Cognitive Science Society
+(Austin, TX: Cognitive Science Society), 631-636 <a
+href="http://compneuro.uwaterloo.ca/publications/kajic2017a.html"
+target="_blank">[bibtex]</a>
+
+
 
 **Kajić I.**, Gosmann, J., Stewart, T. C., Wennekers, T., and Eliasmith, C.
 (2016). [Towards a cognitively realistic representation of word
-associations](http://mindmodeling.org/cogsci2016/papers/0379/paper0379.pdf). In
-38th Annual Conference of the Cognitive Science Society (Austin, TX: Cognitive
+associations](http://mindmodeling.org/cogsci2016/papers/0379/paper0379.pdf). In Proceedings of the 38th Annual Conference of the Cognitive Science Society (Austin, TX: Cognitive
 Science Society), 2183–2188 <a
 href="https://raw.githubusercontent.com/ikajic/ikajic.github.io/master/publications/kajic2016.bib"
 target="_blank">[bibtex]</a>
