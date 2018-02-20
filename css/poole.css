@@ -38,6 +38,7 @@
 
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url(tango.css);
 
 html {
   font-family: "PT Sans", Georgia, "Times New Roman", serif;
