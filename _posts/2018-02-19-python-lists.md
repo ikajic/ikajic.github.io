@@ -7,7 +7,7 @@ date: 2018-02-19
 By teaching coding to beginners, or even experienced programmers transitioning to
 Python, I noticed there are certain learning milestones that are likely to cause some
 raised eyebrows.
-Working with the list data structure n Python (or, more specifically, the *list
+Working with the list data structure in Python (or, more specifically, the *list
 object*) can be confusing as some aspects of it can be less intuitive.
 Understanding what's going on under the hood should be sufficient to clear up the
 confusion.
@@ -24,7 +24,7 @@ programming languages) are not.
 ## 1+1
 
 Here is an example of two different operations that both add an element to
-a list, yet they do it in a very different manner.
+a list, yet, they do it in a very different manner.
 Given a list `lst`:
 
 `lst = [1]`
