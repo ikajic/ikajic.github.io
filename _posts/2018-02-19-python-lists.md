@@ -8,7 +8,7 @@ By teaching coding to beginners, or even experienced programmers transitioning t
 Python, I noticed there are certain learning milestones that are likely to cause some
 raised eyebrows.
 Working with the list data structure in Python (or, more specifically, the *list
-object*) can be confusing as some aspects of it can be less intuitive.
+object*) can be confusing as some aspects can be less intuitive.
 Understanding what's going on under the hood should be sufficient to clear up the
 confusion.
 
@@ -43,13 +43,18 @@ lst = lst + [1]
 ```
 
 While both approaches yield `lst = [1, 1]`, in the first case we used a built-in
-function that mutated the list and returned `None`. In the second case, we
-added `[1]` to the list and assigned the result to a new list which we also
+function that mutated the list and returned `None`.
+Another important facet of appending an element in this way is that this operation is very
+fast, its amortized complexity is O(1) (<a href="http://www.laurentluce.com/posts/python-list-implementation/   " target="_blank">here's why</a>).
+In the second case, we
+added `[1]` to the list `lst` and assigned the result to a new list which we also
 called `lst` (again, this syntax might be familiar from the handling of
-strings).
+strings). However, this operation is much more expensive, resulting in O(N) as
+all elements in `lst` need to be copied first.
 
-Although this might not seem as too big of a deal at first, let's explore what
-happens in slightly more complex scenarios.
+Although this might not seem as too big of a deal at first when dealing with
+lists that are tiny, potential caveats exist when we consider
+scenarios that are slightly more complex.
 
 ## Effects of mutation
 
