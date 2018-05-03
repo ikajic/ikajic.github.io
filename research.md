@@ -10,8 +10,6 @@ target="_blank">[bibtex]</a>
 
 
 ### conference papers
-**Kajić I.**, and Eliasmith, C. (2018). Evaluating the psychological plausibility
-of word2vec and GloVe distributional semantic models. (*submitted*)
 
 **Kajić I.**, Gosmann, J., Komer, B., Orr, R. W., Stewart, T. C., and
 Eliasmith, C. (2017). [A Biologically Constrained Model of Semantic Memory
@@ -38,6 +36,12 @@ a Humanoid Robot using SOMs.](http://adapt.informatik.hu-berlin.de/pub/papers/HR
 
 Putze F., Heger D., Müller M., Chassein Y., **Kajić I.**, Schultz T. (2013), [Profiling Arousal in Response to Complex Stimuli using Biosignals](https://www.researchgate.net/profile/Ivana_Kajic/publication/260986674_Profiling_Arousal_in_Response_to_Complex_Stimuli_using_Biosignals/links/02e7e5333e36b33b16000000.pdf), BIOSIGNALS 2013: 347-350, Barcelona, Spain
 <a href="https://raw.githubusercontent.com/ikajic/ikajic.github.io/master/publications/putze2013.bib" target="_blank">[bibtex]</a>
+
+### technical reports
+
+**Kajić I.**, and Eliasmith, C. (2018). [Evaluating the psychological plausibility
+of word2vec and GloVe distributional semantic models](http://compneuro.uwaterloo.ca/files/publications/kajic.2018a.pdf). Technical Report, Centre for Theoretical Neuroscience, Waterloo, ON, doi:10.13140/RG.2.2.13623.62887.
+<a href="https://raw.githubusercontent.com/ctn-waterloo/website/master/ctn_waterloo/content/publications/kajic2018a.bib" target="_blank">[bibtex]</a>
 
 ### workshop papers
 
