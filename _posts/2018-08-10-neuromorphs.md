@@ -8,8 +8,8 @@ date: 2018-08-10
 <p align="right"><small> The town of Telluride observed from Ajax Peak © Ivana Kajić </small></p>
 &nbsp;
 
-This year I had the pleasure of participating at the 25th Telluride
-Neuromorphic Cognition Engineering Workshop. When I tell people this is how
+This year I had the pleasure of participating at the [25th Telluride
+Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride2018/home){:target="_new"}. When I tell people this is how
 I spent my summer, I can not help but notice looks prompting questions such as
 "You did *what?*... and *where*?". This post will summarize what was happening
 during the three weeks of the workshop that took place in July this year.
