@@ -3,10 +3,13 @@ layout: default
 title: teach
 ---
 
-I am the organzier of the programming workshops for students in non-STEM fields at the University of Waterloo. 
-The workshop materials are available [here](https://github.com/uwpyb/materials).
-So far there have been three such workshops in Jan 2016, Nov 2016 and Nov 2017.
-The next one is scheduled for June 2018.
+I am the organzier of the programming workshops for students in non-STEM fields
+at the University of Waterloo. The workshop materials are available
+[here](https://github.com/uwpyb/materials). So far there have been four such
+workshops in Jan '16, Nov '16, Nov '17 and June '18.
+Instructors and mentors at the workshop are current and former UW students, and
+we are all volunteers. 
+
 
 At the University of Waterloo, I was a teaching assistant for the following
 courses:
