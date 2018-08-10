@@ -4,7 +4,7 @@ title: "Colorado magic, part 1: Telluride neuromorphic workshop"
 date: 2018-08-10
 ---
 &nbsp;
-<img src="/files/telluride.jpg" alt="home" width="600">
+<img src="/files/telluride.jpg" alt="home" width="100%">
 <p align="right"><small> The town of Telluride observed from Ajax Peak © Ivana Kajić </small></p>
 &nbsp;
 
