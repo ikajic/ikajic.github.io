@@ -52,7 +52,7 @@ As deep neural networks gain more importance in computer vision and other
 domains, optimized hardware requiring less power than conventional counterparts such as CPUs and GPUs is
 becoming increasingly relevant.
 At this workshop, participants had an opportunity to work with two such new chips:
-Intel's [Loihi](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence){:target="_new"}, and [Braindrop](https://web.stanford.edu/group/brainsinsilicon/index.html){:target="_new"}, a chip designed by researchers from the Stanford University.
+Intel's [Loihi](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence){:target="_new"}, and [Braindrop](https://web.stanford.edu/group/brainsinsilicon/index.html){:target="_new"}, a chip designed by researchers from Stanford University.
 
 The last week of the workshop was centered around the projects. I was part
 of a group that explored algorithms and approaches for agents that are able to
