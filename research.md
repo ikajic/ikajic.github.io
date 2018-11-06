@@ -40,8 +40,8 @@ Putze F., Heger D., Müller M., Chassein Y., **Kajić I.**, Schultz T. (2013), [
 ### technical reports
 
 **Kajić I.**, and Eliasmith, C. (2018). [Evaluating the psychological plausibility
-of word2vec and GloVe distributional semantic models](http://compneuro.uwaterloo.ca/files/publications/kajic.2018a.pdf). Technical Report, Centre for Theoretical Neuroscience, Waterloo, ON, doi:10.13140/RG.2.2.13623.62887.
-<a href="https://raw.githubusercontent.com/ctn-waterloo/website/master/ctn_waterloo/content/publications/kajic2018a.bib" target="_blank">[bibtex]</a>
+of word2vec and GloVe distributional semantic models](http://compneuro.uwaterloo.ca/files/publications/kajic.2018.pdf){:target="_new"}. Technical Report, Centre for Theoretical Neuroscience, Waterloo, ON, doi:10.13140/RG.2.2.13623.62887
+[\[bibtex\]](https://raw.githubusercontent.com/ctn-waterloo/website/master/ctn_waterloo/content/publications/kajic2018.bib){:target="_new"}
 
 ### workshop papers
 
