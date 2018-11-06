@@ -16,14 +16,17 @@ words and sentences that can be efficiently implemented in a large-scale network
 To do so, I use a compressed, vector-based representations of words and
 sentences called [semantic pointers](http://compneuro.uwaterloo.ca/research/spa.html) that can be manipulated to mimic aspects of
 syntactic and semantic processing.
+In 2018 I did a four month internship as a Software Reliability Engineering
+(SRE) intern at Google, where I designed and implemented a system for
+detection of automation errors from log data.
 
-I received a Master's degree in Computational Neuroscience at the [Bernstein
+I received a master's degree in Computational Neuroscience at the [Bernstein
 Centre for Computational Neuroscience](https://www.bccn-berlin.de/Home/) in
 Berlin and my Bachelor in Computing from [FER](http://www.fer.unizg.hr/) at
 the University of Zagreb. I also worked as a Research Fellow in the [Cognovo
-group](http://cognovo.eu/) at the Plymouth University in England, where
-I built neural networks of a verbal association task. My (occasionally updated) CV is available
-[here](https://github.com/ikajic/ikajic.github.io/raw/master/files/cv.pdf).
+group](http://cognovo.eu/) at Plymouth University in England. 
+My (occasionally updated) CV is available
+[here](http://compneuro.uwaterloo.ca/files/ivana-cv-nov18.pdf){:target="_new"}.
 
 
 #### my name
