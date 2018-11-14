@@ -15,7 +15,7 @@ href="https://www.salon.com/2016/09/10/what-will-universal-grammar-evidence-rebu
 What’s universal grammar? Evidence rebuts Chomsky’s theory of language
 learning</a> by P. Ibbotson & M. Tomasello, Scientific American (Nov 2016)
 
-### Python
+### Coding, Python etc.
 
 <a href="http://www.laurentluce.com/posts/python-list-implementation/"> Python List Implementation </a> from Laurent Luce's blog (Mar 2011)
 
@@ -23,6 +23,9 @@ learning</a> by P. Ibbotson & M. Tomasello, Scientific American (Nov 2016)
 
 <a href="https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really">Why I Hate Python (Or Any Dynamic Language, Really)</a> Abscissa's Blog (Oct 2012)
 
+[Programming
+Sucks](https://www.stilldrinking.org/programming-sucks){:target="_new"} by
+Still Drinking (Apr 2014)
 
 ### Education, parenting et al.
 
