@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIternative lyrics endings: Lyrics completion using GPT-2"
+title: "AIternate endings: Lyrics completion using GPT-2"
 date: 2019-03-31
 ---
 
