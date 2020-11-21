@@ -5,31 +5,23 @@ title: whoami
 
 ### about me
 
-<img src="../files/me.jpeg" style="float:right;width:188px;height:225px;padding-left:10px">
+<img src="https://avatars1.githubusercontent.com/u/2485670?v=3&s=460" style="float:right;width:188px;height:188px;padding-left:10px">
 
-I'm a PhD candidate in Computer Science at the University of Waterloo working in
-the [Computational Neuroscience Research group
-(CNRG)](http://compneuro.uwaterloo.ca/) headed by Chris Eliasmith. My interests
-are in cognitively constrained representations of language. In particular,
-I investigate distributed representations of the linguistic content such as
-words and sentences that can be efficiently implemented in large-scale neural networks while capturing different aspects of linguistic behaviours as observed with users of natural language.
-To do so, I use a compressed, vector-based representations of words and
-sentences called [semantic pointers](http://compneuro.uwaterloo.ca/research/spa.html) that can be manipulated to mimic aspects of
-syntactic and semantic processing.
-In my research, I am also investigating how vectors learned from big corpora of
-text compare to representations derived from much smaller, empirically derived
-datasets.
-In 2018 I did a four month internship as a Software Reliability Engineering
-(SRE) intern at Google, where I designed and implemented a system for
-detection of automation errors from log data.
+I'm a researcher studying computational mechanisms underlying cognitive
+functions and behaviours pertaining to natural language. The ability to
+communicate using language is uniquely human, and it is realized by networks of
+hundreds of millions of neurons in the brain. In my PhD thesis, I investigated
+how aspects of linguistic function could be realized in the brain by using
+biologically constrained neural networks. 
 
-I received a master's degree in Computational Neuroscience at the [Bernstein
+I completed my PhD in Computer Science in 2020 at the University of Waterloo in
+Canada, where I was a student in the [Computational Neuroscience Research group
+(CNRG)](http://compneuro.uwaterloo.ca/). I received my Master's degree in Computational Neuroscience from the [Bernstein
 Centre for Computational Neuroscience](https://www.bccn-berlin.de/Home/) in
-Berlin and my Bachelor in Computing from [FER](http://www.fer.unizg.hr/) at
-the University of Zagreb. I also worked as a Research Fellow in the [Cognovo
-group](http://cognovo.eu/) at Plymouth University in England. 
+Berlin, and my undergraduate degree from [FER](http://www.fer.unizg.hr/) at
+the University of Zagreb. 
 My (occasionally updated) CV is available
-[here](http://compneuro.uwaterloo.ca/files/ivana-cv-nov18.pdf){:target="_new"}.
+[here](http://compneuro.uwaterloo.ca/files/ivana-cv.pdf){:target="_new"}.
 
 
 #### my name

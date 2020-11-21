@@ -4,12 +4,26 @@ title: research
 ---
 
 ### journal articles
+
+Kajić I, Schröder T, Stewart TC, and Thagard P (2019). [The semantic pointer theory of emotion: integrating physiology, appraisal, and construction](http://www.sciencedirect.com/science/article/pii/S1389041718303838). Cognitive Systems Research, <a 
+href="http://compneuro.uwaterloo.ca/publications/kajic2019.html#kajic2019cite"
+target="_blank">[bibtex]</a>
+
+
 **Kajić I.**, Gosmann J, Stewart TC, Wennekers T and Eliasmith C (2017). [A Spiking Neuron Model of Word Associations for the Remote Associates Test](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00099). Front. Psychol. 8:99. doi: 10.3389/fpsyg.2017.00099 <a
 href="http://compneuro.uwaterloo.ca/publications/kajic2017.html#kajic2017cite"
 target="_blank">[bibtex]</a>
 
 
 ### conference papers
+
+**Kajić I.**, Aygün E., and Precup D (2020). [Learning to cooperate: emergent communication in multi-agent navigation](https://cogsci.mindmodeling.org/2020/papers/0459/0459.pdf). In 42nd Annual Meeting of the Cognitive Science Society, 1993–1999. Toronto, ON, 2020. Cognitive Science Society. <a
+href="http://compneuro.uwaterloo.ca/publications/kajic2020.html"
+target="_blank">[bibtex]</a>
+
+Voelker AR, **Kajić I**, and Eliasmith C (2019). [Legendre memory units: continuous-time representation in recurrent neural networks](https://papers.nips.cc/paper/9689-legendre-memory-units-continuous-time-representation-in-recurrent-neural-networks). In Advances in Neural Information Processing Systems, 15544–15553.  <a href="http://compneuro.uwaterloo.ca/publications/voelker2019lmu.html"
+target="_blank">[bibtex]</a>
+
 
 **Kajić I.**, Gosmann, J., Komer, B., Orr, R. W., Stewart, T. C., and
 Eliasmith, C. (2017). [A Biologically Constrained Model of Semantic Memory
@@ -57,6 +71,8 @@ Robot.](http://www.macs.hw.ac.uk/~kl360/HRI2014W/submission/S11.pdf) Workshop: A
 
 
 ### other
+
+Ivana Kajić. [Computational Mechanisms of Language Understanding and Use in the Brain and Behaviour](http://hdl.handle.net/10012/16439.). PhD thesis, University of Waterloo, Waterloo, ON, 2020. <a href="http://libwebappsprd01.uwaterloo.ca/cgi-bin/citation/citation.bib?hdl=10012/16439&type=Doctoral%20Thesis&year=2020" target="_blank">[bibtex]</a>
 
 Kajić I., [Čitanje misli iz moždane aktivnosti](http://gyrus.hiim.hr/images/gyrus3/Gyrus3_Part9.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak 
 

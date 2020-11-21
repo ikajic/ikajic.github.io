@@ -11,7 +11,7 @@ are worth bookmarking for whatever reason.
 href="http://how-to-learn-any-language.com/e/languages/german/the-awful-german-language.html"> The awful German Language by Mark Twain </a>, *a humorous exploration of the frustrations a native speaker of English has with learning German as a second language.*
 
 <a
-href="https://www.salon.com/2016/09/10/what-will-universal-grammar-evidence-rebuts-chomskys-theory-of-language-learning_partner/">
+href="https://cogsys.sites.olt.ubc.ca/files/2016/09/Whats-universal-grammar-Eviden-ce-rebuts-Chomsky%E2%80%99s-theory-of-la.pdf">
 What’s universal grammar? Evidence rebuts Chomsky’s theory of language
 learning</a> by P. Ibbotson & M. Tomasello, Scientific American (Nov 2016)
 
