@@ -7,12 +7,8 @@ title: whoami
 
 <img src="https://avatars1.githubusercontent.com/u/2485670?v=3&s=460" style="float:right;width:188px;height:188px;padding-left:10px">
 
-I'm a researcher studying computational mechanisms underlying cognitive
-functions and behaviours pertaining to natural language. The ability to
-communicate using language is uniquely human, and it is realized by networks of
-hundreds of millions of neurons in the brain. In my PhD thesis, I investigated
-how aspects of linguistic function could be realized in the brain by using
-biologically constrained neural networks. 
+I am a Senior Research Scientist at Google Deepmind in Montreal, Canada. I am interested in applying methods and techniques from cognitive science in analysis and characterization of behavior of machine learning models. Specifically, this includes designing evaluation protocols, benchmarks and metrics to comprehensively understand capabilities and limitations of large vision-language models that in recent years have demonstrated strong performance in a variety of tasks. More recently, I have been studying how well image generation models understand numbers and quantities.
+
 
 I completed my PhD in Computer Science in 2020 at the University of Waterloo in
 Canada, where I was a student in the [Computational Neuroscience Research group
