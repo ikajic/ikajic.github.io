@@ -9,6 +9,7 @@ title: whoami
 
 I am a Senior Research Scientist at Google Deepmind in Montreal, Canada. I am interested in applying methods and techniques from cognitive science in analysis and characterization of behavior of machine learning models. Specifically, this includes designing evaluation protocols, benchmarks and metrics to comprehensively understand capabilities and limitations of large vision-language models that in recent years have demonstrated strong performance in a variety of tasks. More recently, I have been studying how well image generation models understand numbers and quantities.
 
+I also enjoy being engaged with the wider AI community: I was a program co-chair for the 2024 edition of the [Montreal AI Symposium](http://montrealaisymposium.com/), and the co-lead of the [Language & Thought](https://sites.google.com/corp/view/telluride-2024/home) topic area at the 2024 [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/corp/view/telluride-2024/home).
 
 I completed my PhD in Computer Science in 2020 at the University of Waterloo in
 Canada, where I was a student in the [Computational Neuroscience Research group
