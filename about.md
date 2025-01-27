@@ -18,7 +18,7 @@ Centre for Computational Neuroscience](https://www.bccn-berlin.de/Home/) in
 Berlin, and my undergraduate degree from [FER](http://www.fer.unizg.hr/) at
 the University of Zagreb. 
 My (occasionally updated) CV is available
-[here](http://compneuro.uwaterloo.ca/files/ivana-cv.pdf){:target="_new"}.
+[here](http://github.com/ikajic/ikajic.github.io/blob/master/files/cv.pdf){:target="_new"}.
 
 
 #### my name
