@@ -16,9 +16,17 @@
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
-                    <li><a href="mailto:i2kajic@uwaterloo.ca">email</a></li>
+                    <li><a href="mailto:hello@ivanakajic.me">email</a></li>
                     <li><a href="https://github.com/ikajic">github.com/ikajic</a></li>
 				</ul>
 			</footer>
 		</body>
+		<script>
+		  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+		    if (link.hostname !== window.location.hostname) {
+		      link.target = '_blank';
+		      link.rel = 'noopener noreferrer';
+		    }
+		  });
+		</script>
 	</html>

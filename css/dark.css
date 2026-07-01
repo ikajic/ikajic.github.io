@@ -1,0 +1,87 @@
+/* dark.css — always-on dark override, loaded after poole.css */
+
+body {
+  background-color: #16181d;
+  color: #c4c8d0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ecedef;
+}
+
+a {
+  color: #6cb6ff;
+}
+a:hover,
+a:focus {
+  color: #9ccdff;
+}
+
+/* nav + footer links */
+nav a,
+footer a {
+  color: #c4c8d0;
+}
+nav a:hover,
+footer a:hover {
+  color: #ffffff;
+}
+
+/* code + preformatted blocks */
+code,
+pre {
+  background-color: #22252b;
+  color: #e6e6e6;
+}
+pre {
+  border: 1px solid #2c2f36;
+}
+
+/* quotes, rules, tables */
+blockquote {
+  color: #9aa0aa;
+  border-left-color: #3a3d44;
+}
+
+hr {
+  border-top-color: #2c2f36;
+  border-bottom-color: #2c2f36;
+}
+
+table {
+  border-color: #2c2f36;
+}
+td,
+th {
+  border-color: #2c2f36;
+}
+
+/* form fields, if any */
+input,
+textarea {
+  background-color: #22252b;
+  color: #e6e6e6;
+  border-color: #3a3d44;
+}
+
+strong,
+b {
+  color: #ecedef;
+}
+
+.profile-photo {
+  float: right;
+  width: 250px;
+  height: auto;
+  padding-left: 10px;
+}
+
+@media (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    width: 100%;
+    max-width: 300px;
+    padding-left: 0;
+    margin-bottom: 1em;
+  }
+}

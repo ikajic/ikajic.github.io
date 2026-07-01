@@ -5,12 +5,14 @@ title: whoami
 
 ### about me
 
-<img src="https://avatars1.githubusercontent.com/u/2485670?v=3&s=460" style="float:right;width:188px;height:188px;padding-left:10px">
+<img src="/files/profile_2026.jpg" alt="Climbing in Lake Louise" title="Climbing in Lake Louise" class="profile-photo">
 
-I am a Senior Research Scientist at Google Deepmind in Montreal, Canada. I am interested in applying methods and techniques from cognitive science in analysis and characterization of behavior of machine learning models. Specifically, this includes designing evaluation protocols, benchmarks and metrics to comprehensively understand capabilities and limitations of large vision-language models that in recent years have demonstrated strong performance in a variety of tasks. More recently, I have been studying how well image generation models understand numbers and quantities.
+I am a Staff Research Scientist at Google Deepmind in Montreal, Canada. I am interested in applying methods and techniques from cognitive science in analysis and characterization of behavior of machine learning models. Specifically, this includes designing evaluation protocols, benchmarks and metrics to comprehensively understand capabilities and limitations of large vision-language models that in recent years have demonstrated strong performance in a variety of tasks. More recently, I have been studying how well image generation models understand numbers and quantities.
 
-I also enjoy being engaged with the wider AI community: I was a program co-chair for the 2024 edition of the [Montreal AI Symposium](http://montrealaisymposium.com/), and the co-lead of the [Language & Thought](https://sites.google.com/corp/view/telluride-2024/home) topic area at the 2024 [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/corp/view/telluride-2024/home).
+I also love staying connected with the wider scientific community and the public by giving talks, joining panels, and helping organize conferences and events. Recently I co-chaired the AI sessions at the [6th](https://www.neuromonster.org/nm2025) and [7th](https://www.neuromonster.org/nm2026) International Conferences on the Mathematics of Neuroscience and AI, was a panelist at the [Dubrovnik Forum](https://mvep.gov.hr/UserDocsImages/2025/datoteke/01_Context%20Dubrovnik%20Forum%202025_FINAL_25062025.pdf), and co-chaired the [Montreal AI Symposium](http://montrealaisymposium.com/). I also co-led the [Language & Thought](https://sites.google.com/view/telluride-2024/home) topic area at the [Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2024/home).
 
+
+### bio
 I completed my PhD in Computer Science in 2020 at the University of Waterloo in
 Canada, where I was a student in the [Computational Neuroscience Research group
 (CNRG)](http://compneuro.uwaterloo.ca/). I received my Master's degree in Computational Neuroscience from the [Bernstein
@@ -18,7 +20,7 @@ Centre for Computational Neuroscience](https://www.bccn-berlin.de/Home/) in
 Berlin, and my undergraduate degree from [FER](http://www.fer.unizg.hr/) at
 the University of Zagreb. 
 My (occasionally updated) CV is available
-[here](http://github.com/ikajic/ikajic.github.io/blob/master/files/cv.pdf){:target="_new"}.
+[here](http://github.com/ikajic/ikajic.github.io/blob/master/files/cv.pdf){:target="_new"} and a "serious" photo [here](https://avatars1.githubusercontent.com/u/2485670?v=3&s=460).
 
 
 #### my name

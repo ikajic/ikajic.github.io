@@ -8,6 +8,8 @@ This is a selected list of research articles I wrote or I contributed to as a co
 
 ### research papers
 
+Papalampidi, P., Wiles, O., Ktena, I., Shtedritski, A., Bugliarello, E., **Kajić, I.**, Albuquerque, I., Nematzadeh, A. (2026) [Dynamic Classifier-Free Diffusion Guidance via Online Feedback](https://openreview.net/pdf?id=z9YC9bvfUL) (ICLR)
+
 Wiles, O., Zhang, C., Albuquerque, I., **Kajić, I.**, Wang, S., Bugliarello, E., Onoe, Y., Papalampidi, P., Ktena, I., Knutsen, C., Rashtchian, C., Nawalgaria, A., Pont-Tuset, J., Nematzadeh, A. (2025) [One slice is not enough: In search of stable conclusions in text-to-image evaluation](https://openreview.net/pdf?id=Im2neAMlre) (ICLR)
 
 **Kajić, I.**, Wiles, O., Albuquerque, I., Bauer, M., Wang, S., Pont-Tuset, J., Nematzadeh, A. (2024). [Evaluating Numerical Reasoning in Text-to-Image Models](https://openreview.net/pdf?id=W0FEprcxva). In The 38th Conference on Neural Information Processing Systems (NeurIPS) <a 
@@ -22,7 +24,7 @@ Wiles, O., Zhang, C., Albuquerque, I., **Kajić, I.**, Wang, S., Bugliarello, E.
 
 Agrawal, A., **Kajić, I.**, Bugliarello, E., Davoodi, E., Gergely, A., Blunsom, P. and Nematzadeh, A., (2023) [Reassessing Evaluation Practices in Visual Question Answering: A Case Study on Out-of-Distribution Generalization](https://arxiv.org/pdf/2205.12191). In Findings of the Association for Computational Linguistics: EACL 2023 (pp. 1201-1226) <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:N5SeNuuIvAYJ:scholar.google.com/&output=citation&scisdr=ClEeNBS5ENrs4ywPVPw:AFWwaeYAAAAAZ5gJTPw2oJZeIOk1Him61MpwFgA&scisig=AFWwaeYAAAAAZ5gJTL8Ogm8rA2-yXal92IoBbNA&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1" target="_blank">[bibtex]</a>
 
-**Kajić I.**, Stewart T.C. (2021) [Biologically Constrained Large Scale Model of the Wisconsin Card Sorting Test](https://escholarship.org/content/qt4xg8936b/qt4xg8936b.pdf. Proceedings of the 43rd Annual Conference of the Cognitive Science Society  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dCbLrblK9z8J:scholar.google.com/&output=citation&scisdr=ClEeNBS5ENrs4ywKLfA:AFWwaeYAAAAAZ5gMNfDPHTYMHXo3bxAuXP1OVhE&scisig=AFWwaeYAAAAAZ5gMNfuE4K7zltwRnQ1ENdzQGSk&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[bibtex]</a>
+**Kajić I.**, Stewart T.C. (2021) [Biologically Constrained Large Scale Model of the Wisconsin Card Sorting Test](https://escholarship.org/content/qt4xg8936b/qt4xg8936b.pdf). Proceedings of the 43rd Annual Conference of the Cognitive Science Society  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dCbLrblK9z8J:scholar.google.com/&output=citation&scisdr=ClEeNBS5ENrs4ywKLfA:AFWwaeYAAAAAZ5gMNfDPHTYMHXo3bxAuXP1OVhE&scisig=AFWwaeYAAAAAZ5gMNfuE4K7zltwRnQ1ENdzQGSk&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[bibtex]</a>
 
 **Kajić I.**, Aygün E., and Precup D (2020). [Learning to cooperate: emergent communication in multi-agent navigation](https://cogsci.mindmodeling.org/2020/papers/0459/0459.pdf). In 42nd Annual Meeting of the Cognitive Science Society, 1993–1999. Toronto, ON, 2020. Cognitive Science Society. <a href="http://compneuro.uwaterloo.ca/publications/kajic2020.html" target="_blank">[bibtex]</a>
 
@@ -55,7 +57,7 @@ target="_blank">[bibtex]</a>
 
 ### other
 
-Ivana Kajić. [Computational Mechanisms of Language Understanding and Use in the Brain and Behaviour](http://hdl.handle.net/10012/16439.). PhD thesis, University of Waterloo, Waterloo, ON, 2020. <a href="http://libwebappsprd01.uwaterloo.ca/cgi-bin/citation/citation.bib?hdl=10012/16439&type=Doctoral%20Thesis&year=2020" target="_blank">[bibtex]</a>
+Ivana Kajić. [Computational Mechanisms of Language Understanding and Use in the Brain and Behaviour](https://hdl.handle.net/10012/16439). PhD thesis, University of Waterloo, Waterloo, ON, 2020. <a href="http://libwebappsprd01.uwaterloo.ca/cgi-bin/citation/citation.bib?hdl=10012/16439&type=Doctoral%20Thesis&year=2020" target="_blank">[bibtex]</a>
 
 Kajić I., [Čitanje misli iz moždane aktivnosti](http://gyrus.hiim.hr/images/gyrus3/Gyrus3_Part9.pdf), Časopis Gyrus studentske sekcije za Neuroznanost Hrvatskog Instituta za Mozak 
 
